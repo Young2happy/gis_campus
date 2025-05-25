@@ -1,0 +1,52 @@
+.announcement-board {
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 8px;
+  padding: 20px;
+  height: 100%;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #39FF14 rgba(0, 0, 0, 0.2);
+}
+
+.announcement-board::-webkit-scrollbar {
+  width: 6px;
+}
+
+.announcement-board::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+}
+
+.announcement-board::-webkit-scrollbar-thumb {
+  background-color: #39FF14;
+  border-radius: 3px;
+}
+
+.announcement-board .MuiCard-root {
+  position: relative;
+  overflow: hidden;
+}
+
+.announcement-board .MuiCard-root::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #39FF14, transparent);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.announcement-board .MuiCard-root:hover::before {
+  opacity: 1;
+}
+
+.announcement-board .MuiIconButton-root {
+  transition: transform 0.2s ease;
+}
+
+.announcement-board .MuiIconButton-root:hover {
+  transform: scale(1.1);
+} 

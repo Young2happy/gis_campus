@@ -1,0 +1,24 @@
+{
+  "buildings": [
+    {
+      "_id": "1741269226363",
+      "name": "admin",
+      "code": "",
+      "type": "academic",
+      "floors": 1,
+      "description": "test",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          116.3252,
+          40.0064
+        ]
+      },
+      "address": "test",
+      "facilities": [],
+      "createdAt": "2025-03-06T13:53:46.363Z",
+      "updatedAt": "2025-03-06T13:53:46.363Z",
+      "createdBy": "1741268922709"
+    }
+  ]
+}
