@@ -1,0 +1,14 @@
+{
+  "announcements": [
+    {
+      "id": "1",
+      "title": "图书馆延长开放时间通知",
+      "content": "为方便同学们复习备考，图书馆将从本周开始延长开放时间至晚上11点。",
+      "type": "library",
+      "priority": "normal",
+      "createTime": "2025-06-03T17:20:13.349Z",
+      "expireTime": "2025-07-03T17:20:13.350Z",
+      "status": "active"
+    }
+  ]
+}

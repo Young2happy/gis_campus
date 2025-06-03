@@ -1,0 +1,92 @@
+{
+  "facilities": [
+    {
+      "id": "lib1",
+      "code": "LIB-A",
+      "name": "中心图书馆",
+      "type": "library",
+      "maxCount": 500,
+      "location": {
+        "lat": 39.9062,
+        "lng": 116.4084
+      }
+    },
+    {
+      "id": "lib2",
+      "code": "LIB-B",
+      "name": "工学分馆",
+      "type": "library",
+      "maxCount": 200,
+      "location": {
+        "lat": 39.9065,
+        "lng": 116.4087
+      }
+    },
+    {
+      "id": "lib3",
+      "code": "LIB-C",
+      "name": "医学分馆",
+      "type": "library",
+      "maxCount": 150,
+      "location": {
+        "lat": 39.9068,
+        "lng": 116.4090
+      }
+    },
+    {
+      "id": "can1",
+      "code": "CAN-1",
+      "name": "第一食堂",
+      "type": "canteen",
+      "maxCount": 300,
+      "location": {
+        "lat": 39.9060,
+        "lng": 116.4082
+      }
+    },
+    {
+      "id": "can2",
+      "code": "CAN-2",
+      "name": "第二食堂",
+      "type": "canteen",
+      "maxCount": 250,
+      "location": {
+        "lat": 39.9063,
+        "lng": 116.4085
+      }
+    },
+    {
+      "id": "can3",
+      "code": "CAN-3",
+      "name": "教工食堂",
+      "type": "canteen",
+      "maxCount": 200,
+      "location": {
+        "lat": 39.9066,
+        "lng": 116.4088
+      }
+    },
+    {
+      "id": "exp1",
+      "code": "EXP-1",
+      "name": "主楼快递点",
+      "type": "express",
+      "maxCount": 100,
+      "location": {
+        "lat": 39.9061,
+        "lng": 116.4083
+      }
+    },
+    {
+      "id": "exp2",
+      "code": "EXP-2",
+      "name": "宿舍快递点",
+      "type": "express",
+      "maxCount": 150,
+      "location": {
+        "lat": 39.9064,
+        "lng": 116.4086
+      }
+    }
+  ]
+} 

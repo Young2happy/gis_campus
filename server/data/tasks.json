@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "title": "图书馆整理",
+      "description": "整理图书馆新到图书",
+      "creator": {
+        "name": "管理员",
+        "username": "admin"
+      },
+      "status": "pending",
+      "priority": "medium",
+      "deadline": "2024-02-02T16:00:00.000Z",
+      "location": {
+        "building": "图书馆",
+        "coordinates": {
+          "lat": 39.9042,
+          "lng": 116.4074
+        }
+      },
+      "updatedAt": "2025-01-13T14:55:10.456Z"
+    },
+    {
+      "id": "1736780118148",
+      "title": "11",
+      "description": "111",
+      "priority": "medium",
+      "deadline": "2025-01-13T14:15:03.878Z",
+      "location": {
+        "building": "",
+        "coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "creator": {
+        "name": "管理员",
+        "username": "admin"
+      },
+      "createdAt": "2025-01-13T14:55:18.148Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "_id": "admin123",
+      "username": "admin",
+      "password": "$2a$10$ib8HfJxvXLPSUYdKz3gB/.4mQpKjE6UzCUDY6BuoIyoRX8TJ5xkQq",
+      "name": "系统管理员",
+      "role": "admin",
+      "department": "信息技术中心",
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "lastLogin": null
+    },
+    {
+      "_id": "1741268922709",
+      "username": "17621023290",
+      "password": "$2a$10$JJB4qQX/ohKKioWWhiey7.QfotXqCn13Max6kVywZdDGoHXhMhCcK",
+      "role": "admin",
+      "name": "admin",
+      "studentId": "",
+      "teacherId": "",
+      "department": "电院",
+      "createdAt": "2025-03-06T13:48:42.710Z",
+      "lastLogin": "2025-03-06T13:48:50.926Z"
+    }
+  ]
+}
